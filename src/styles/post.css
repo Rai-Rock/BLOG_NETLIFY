@@ -1,5 +1,5 @@
 .post p {
-  @apply leading-7;
+  @apply leading-7 ;
 }
 
 .post code {
@@ -27,7 +27,7 @@
 }
 
 .post blockquote {
-  @apply flex flex-row gap-2 before:block before:h-auto before:w-1 before:max-w-[1px] before:bg-red-400 before:content-[''];
+  @apply flex flex-row gap-2 before:block before:h-auto before:w-1 before:max-w-[1px] before:bg-blue-500 before:content-[''] before:ml-5;
 }
 
 .post pre {

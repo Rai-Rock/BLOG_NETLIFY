@@ -11,17 +11,17 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  mail: "gxanshu@yahoo.com",
-  title: "Hi, I’m Anshu 👋",
+  mail: "contattami@riccardogualtieri.it",
+  title: "Benvenut*",
   description:
-    "Howdy, i'm a *indian software programmer* with over *5 years* of web experience. I am currently working with *NextJS and Typescript*. Outside of work I complete my pokemon card collection and learning TypeScript.",
+    "Sono appassionato di quiz e alla continua ricerca del mio posto nel mondo. Dopo la laurea in design , ho scoperto una passione per il mondo della finanza. Ho creato questo *taccuino digitale *per dar spazio ai miei pensieri e dar vita ad un archivio personale.",
   socials: [
     {
-      label: "Twiiter",
+      label: "X",
       link: "https://twitter.com/gxanshu",
     },
     {
-      label: "Bento",
+      label: "Linkedin",
       link: "https://bento.me/gxanshu",
     },
     {
